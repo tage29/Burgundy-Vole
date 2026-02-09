@@ -9,6 +9,8 @@ editor: visual
 ```{r}
 
 
-print("test")
+print("initial test")
+
+print("testing editing the file")
 
 ```
