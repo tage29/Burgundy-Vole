@@ -13,4 +13,6 @@ print("initial test")
 
 print("testing editing the file")
 
+print("creating merge conflict because evil")
+
 ```
